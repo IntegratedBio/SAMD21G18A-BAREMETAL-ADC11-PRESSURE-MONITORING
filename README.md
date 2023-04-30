@@ -5,3 +5,5 @@ ADC SETUP. This code demonstrates how to configure "ADC 11" in singles-ended mod
 The value can be watched and ADC values vary betwen [1000 - 65,520] with a signal from [0 - 2.23 VDC]. This is calibrated to readout pressure [0 - 150 psi]
 
 BaudRate @ 5000000 on TX/RX pins
+
+SEE THE PINOUT MAPPING FOR DEBUGGING CONNECTION DETAILS.
